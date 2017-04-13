@@ -13,7 +13,7 @@ Next, install all the dependency packages and start the app:
 > grunt
 ```
 
-You can now view the example project running at [http://localhost:9000/]
+You can now view the example project running at [http://localhost:8000]
 
 ## Project structure
 The interactive template comes with a sample project that loads a template HTML
